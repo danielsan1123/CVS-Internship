@@ -1,3 +1,5 @@
+![Slide12](https://github.com/user-attachments/assets/57e14eca-b1f8-461d-86e4-fc9c565a648f)
+![Slide11](https://github.com/user-attachments/assets/06252370-e501-4034-930a-d62a861c8d20)
 CVS Retail Management Internship - Operation Manager (June 2024 - August 2024)
 Project Overview: This project outlines my role and key achievements during my Retail Management Internship at CVS, Great Neck, New York. My primary responsibilities involved analyzing customer service metrics, optimizing operational periods, implementing a customer-first approach, and driving team success in customer engagement and membership targets.
 
@@ -25,6 +27,6 @@ Net Promoter Score (NPS) Improvement: Identified operational periods that needed
 EAST Methodology Application: Streamlined in-store operations, reducing friction for customers and creating a more social, attractive, and timely shopping experience.
 Consistent Enrollment Success: Led the team to exceed customer membership enrollment goals for five consecutive weeks, contributing to CVS's larger membership goals.
 Customer Experience Enhancement: Transitioned the team's focus to a customer-centric approach, improving the overall satisfaction of shoppers and creating a culture of empathy and support.
-![Slide12](https://github.com/user-attachments/assets/57e14eca-b1f8-461d-86e4-fc9c565a648f)
-![Slide11](https://github.com/user-attachments/assets/06252370-e501-4034-930a-d62a861c8d20)
+
+
 
