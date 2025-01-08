@@ -25,18 +25,6 @@ Net Promoter Score (NPS) Improvement: Identified operational periods that needed
 EAST Methodology Application: Streamlined in-store operations, reducing friction for customers and creating a more social, attractive, and timely shopping experience.
 Consistent Enrollment Success: Led the team to exceed customer membership enrollment goals for five consecutive weeks, contributing to CVS's larger membership goals.
 Customer Experience Enhancement: Transitioned the team's focus to a customer-centric approach, improving the overall satisfaction of shoppers and creating a culture of empathy and support.
-Skills Developed:
-
-Customer Experience Management
-Team Leadership & Collaboration
-Data Analysis & Insights
-Operational Strategy
-Empathy & Emotional Intelligence in Customer Service
-Membership Program Management
-Technologies/Methodologies Used:
-
-Net Promoter Score (NPS) Analysis
-EAST (Easy, Attractive, Social, Timely) Methodology
-ExtraCare and ExtraCarePlus Membership Systems
-Conclusion: This internship allowed me to refine my analytical, operational, and customer service skills, positioning me to better understand the importance of creating a seamless and empathetic customer experience. The exposure to data-driven decision-making, team collaboration, and membership strategies has provided me with a strong foundation in retail management and customer engagement.
+![Slide12](https://github.com/user-attachments/assets/57e14eca-b1f8-461d-86e4-fc9c565a648f)
+![Slide11](https://github.com/user-attachments/assets/06252370-e501-4034-930a-d62a861c8d20)
 
